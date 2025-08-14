@@ -12,7 +12,6 @@ LIVE DEMO:-https://mern-thinkboard-yjfv.onrender.com
 - 📌 **Create, Edit & Delete Notes** — Organize your thoughts effortlessly.
 - 📱 **Responsive UI** — Works seamlessly across mobile, tablet, and desktop.
 - 🎨 **Modern Design** — Tailwind CSS styling for a clean and minimal look.
-- ⚡ **Fast Performance** — Optimized MongoDB queries and caching.
 - 🔐 **Security** — Rate limiting with Upstash Redis to prevent abuse.
 - ⚙️ **REST API** — Fully functional CRUD endpoints (GET, POST, PUT, DELETE).
 - ❌ **Empty State Handling** — Beautiful “Notes Not Found” page with a quick-create option.
