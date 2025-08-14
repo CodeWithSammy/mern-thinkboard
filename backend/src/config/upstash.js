@@ -5,7 +5,7 @@ dotenv.config(); // Load environment variables from .env file
 
 const ratelimit = new Ratelimit({
   redis: Redis.fromEnv(),
-    limiter: Ratelimit.slidingWindow(10, "10 s"), // 10 requests per minute     
+    limiter: Ratelimit.slidingWindow(10, "10 s"), // 10 requests per 10 seconds     
 });
 
 export default ratelimit;
